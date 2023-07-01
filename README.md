@@ -1,6 +1,6 @@
 <!-- Presentation Message -->
 <p align="left">
-  <img src="https://github.com/wesleyallan/wesleyallan/blob/main/hi.gif?raw=true" width="25px" /> Hello, my name is Gabriel, I'm a software developer and this is my GitHub profile, fell free to explore my projects.
+  <img src="https://github.com/wesleyallan/wesleyallan/blob/main/hi.gif?raw=true" width="25px" /> Hello, my name is Gabriel, I'm a software developer and this is my GitHub profile, feel free to explore my projects.
 </p>
 
 <!-- Skills Table -->
